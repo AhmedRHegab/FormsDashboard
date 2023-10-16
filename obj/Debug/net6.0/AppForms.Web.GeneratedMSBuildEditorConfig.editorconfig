@@ -9,89 +9,89 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AppForms.Web
 build_property.RootNamespace = AppForms.Web
-build_property.ProjectDir = C:\inetpub\wwwroot\NewFormsProject\AppForms\AppForms.Web\
+build_property.ProjectDir = c:\inetpub\wwwroot\NewFormsProject\AppForms\AppForms.Web\FormsDashboard\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\inetpub\wwwroot\NewFormsProject\AppForms\AppForms.Web
+build_property.MSBuildProjectDirectory = c:\inetpub\wwwroot\NewFormsProject\AppForms\AppForms.Web\FormsDashboard
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/Modules/Common/Dashboard/DashboardIndex.cshtml]
+[c:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/FormsDashboard/Modules/Common/Dashboard/DashboardIndex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xDb21tb25cRGFzaGJvYXJkXERhc2hib2FyZEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/Modules/Membership/Account/ChangePassword/ChangePasswordPage.cshtml]
+[c:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/FormsDashboard/Modules/Membership/Account/ChangePassword/ChangePasswordPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcQ2hhbmdlUGFzc3dvcmRcQ2hhbmdlUGFzc3dvcmRQYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/Modules/Membership/Account/ForgotPassword/ForgotPasswordPage.cshtml]
+[c:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/FormsDashboard/Modules/Membership/Account/ForgotPassword/ForgotPasswordPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcRm9yZ290UGFzc3dvcmRcRm9yZ290UGFzc3dvcmRQYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/Modules/Membership/Account/Login/LoginPage.cshtml]
+[c:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/FormsDashboard/Modules/Membership/Account/Login/LoginPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcTG9naW5cTG9naW5QYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/Modules/Membership/Account/ResetPassword/ResetPasswordEmail.cshtml]
+[c:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/FormsDashboard/Modules/Membership/Account/ResetPassword/ResetPasswordEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcUmVzZXRQYXNzd29yZFxSZXNldFBhc3N3b3JkRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/Modules/Membership/Account/ResetPassword/ResetPasswordPage.cshtml]
+[c:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/FormsDashboard/Modules/Membership/Account/ResetPassword/ResetPasswordPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcUmVzZXRQYXNzd29yZFxSZXNldFBhc3N3b3JkUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/Modules/Membership/Account/SignUp/ActivateEmail.cshtml]
+[c:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/FormsDashboard/Modules/Membership/Account/SignUp/ActivateEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcU2lnblVwXEFjdGl2YXRlRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/Modules/Membership/Account/SignUp/SignUpPage.cshtml]
+[c:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/FormsDashboard/Modules/Membership/Account/SignUp/SignUpPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcU2lnblVwXFNpZ25VcFBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/Modules/Membership/_ViewStart.cshtml]
+[c:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/FormsDashboard/Modules/Membership/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/Modules/_ViewImports.cshtml]
+[c:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/FormsDashboard/Modules/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/Modules/_ViewStart.cshtml]
+[c:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/FormsDashboard/Modules/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xfVmlld1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/Views/Errors/AccessDenied.cshtml]
+[c:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/FormsDashboard/Views/Errors/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JzXEFjY2Vzc0RlbmllZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/Views/Errors/ValidationError.cshtml]
+[c:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/FormsDashboard/Views/Errors/ValidationError.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JzXFZhbGlkYXRpb25FcnJvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/Views/Shared/Error.cshtml]
+[c:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/FormsDashboard/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/Views/Shared/_Layout.cshtml]
+[c:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/FormsDashboard/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/Views/Shared/_LayoutHead.cshtml]
+[c:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/FormsDashboard/Views/Shared/_LayoutHead.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRIZWFkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/Views/Shared/_LayoutNoNavigation.cshtml]
+[c:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/FormsDashboard/Views/Shared/_LayoutNoNavigation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXROb05hdmlnYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/Views/Shared/_Sidebar.cshtml]
+[c:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/FormsDashboard/Views/Shared/_Sidebar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlYmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/Views/_ViewImports.cshtml]
+[c:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/FormsDashboard/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/Views/_ViewStart.cshtml]
+[c:/inetpub/wwwroot/NewFormsProject/AppForms/AppForms.Web/FormsDashboard/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
